@@ -9,9 +9,9 @@
  Procedure Division.
  Display-Routine.
          Display erase.
-    Display "NUM1 = " line 3 col 5.
+    Display "NUM1 = " line 1 col 5.
     Display num1.
-    Display "NUM2 = " line 4 col 5.
+    Display "NUM2 = " line 3 col 5.
     Display num2.
     Display "NUM1 = ".
     Display num1.
